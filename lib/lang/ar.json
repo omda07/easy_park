@@ -1,0 +1,25 @@
+{
+  "easy_park": "إيزي بارك",
+  "easy": "إيزي ",
+  "park": "بارك",
+  "contact": "اتصل بنا",
+  "logout": "الخروج",
+  "edit_profile": "تعديل الملف الشخصي",
+  "update": "تحديث",
+  "display_name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "phone_number": "رقم الهاتف",
+  "website": "الموقع",
+  "email_id": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+
+  "switch_to": "الذهاب الي",
+
+  "signup": "التسجيل",
+  "login": "الدخول",
+  "my_account": "حسابي",
+  "create_account": "إنشاء حساب",
+  "confirm_password": "تأكيد كلمة المرور",
+  "switch_to_login": "تسجيل الدخول",
+  "register_now": "سجل الان"
+}

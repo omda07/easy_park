@@ -1,0 +1,23 @@
+{
+  "easy_park": "Easy Park",
+  "easy": "Easy ",
+  "park": "Park",
+  "contact": "Contact us",
+  "logout": "Logout",
+  "edit_profile": "Edit Profile",
+  "update": "Update",
+  "display_name": "Display Name",
+  "email": "Email",
+  "phone_number": "Phone Number",
+  "website": "Website",
+  "email_id": "Email ID",
+  "password": "Password",
+  "switch_to": "Switch to ",
+  "login": "Login",
+  "signup": "Signup",
+  "my_account": "My Account",
+  "create_account": "Create Account",
+  "confirm_password": "Confirm Password",
+  "switch_to_login": "Switch to Login",
+  "register_now": "Register Now"
+}
